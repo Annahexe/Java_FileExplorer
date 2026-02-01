@@ -22,3 +22,52 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# =====================
+# Eclipse
+# =====================
+.metadata/
+.settings/
+*.launch
+*.tmp
+*.bak
+*.swp
+*.swo
+.recommenders/
+
+# =====================
+# Java build output
+# =====================
+bin/
+target/
+out/
+build/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDEs
+# =====================
+.idea/
+.vscode/
+*.iml
+
+# =====================
+# Dependency tools
+# =====================
+# Maven
+**/dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
