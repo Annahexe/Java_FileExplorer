@@ -1,5 +1,9 @@
 # Java File Explorer
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dwm2oprta/image/upload/v1769983051/fileExplorerThumbnail_kgwmlx.png" height="500" alt="FileExplorer thumbnail" />
+</p>
+
 A small desktop app made in **Java + Swing** that works like a **file manager + text editor**.
 
 It lets you **browse folders**, **open files**, **edit text**, and perform common operations like **create / rename / copy / delete** — all from a simple GUI.
